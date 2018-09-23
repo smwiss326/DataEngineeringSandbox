@@ -1,4 +1,4 @@
-#Spark Stand-Alone in Docker
+# Spark Stand-Alone in Docker
 
 - Nginx
 - Jupyter Notebook
